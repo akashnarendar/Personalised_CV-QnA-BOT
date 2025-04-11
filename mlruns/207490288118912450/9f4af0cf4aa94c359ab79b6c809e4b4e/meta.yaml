@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/9f4af0cf4aa94c359ab79b6c809e4b4e/artifacts
+end_time: 1744373773622
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 9f4af0cf4aa94c359ab79b6c809e4b4e
+run_name: amazing-goose-631
+run_uuid: 9f4af0cf4aa94c359ab79b6c809e4b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373772708
+status: 3
+tags: []
+user_id: root

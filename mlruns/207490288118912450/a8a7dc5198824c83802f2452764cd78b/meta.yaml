@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/a8a7dc5198824c83802f2452764cd78b/artifacts
+end_time: 1744372554996
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: a8a7dc5198824c83802f2452764cd78b
+run_name: languid-mole-161
+run_uuid: a8a7dc5198824c83802f2452764cd78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372554553
+status: 4
+tags: []
+user_id: root

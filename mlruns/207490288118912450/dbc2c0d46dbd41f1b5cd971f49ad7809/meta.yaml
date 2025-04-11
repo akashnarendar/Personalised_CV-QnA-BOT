@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/dbc2c0d46dbd41f1b5cd971f49ad7809/artifacts
+end_time: 1744375428989
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: dbc2c0d46dbd41f1b5cd971f49ad7809
+run_name: What is Narendar's email?
+run_uuid: dbc2c0d46dbd41f1b5cd971f49ad7809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744375428571
+status: 3
+tags: []
+user_id: root

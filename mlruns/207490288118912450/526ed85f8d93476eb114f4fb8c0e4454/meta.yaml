@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/526ed85f8d93476eb114f4fb8c0e4454/artifacts
+end_time: 1744402067613
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 526ed85f8d93476eb114f4fb8c0e4454
+run_name: What is Narendar's Last name?
+run_uuid: 526ed85f8d93476eb114f4fb8c0e4454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744402065238
+status: 3
+tags: []
+user_id: root

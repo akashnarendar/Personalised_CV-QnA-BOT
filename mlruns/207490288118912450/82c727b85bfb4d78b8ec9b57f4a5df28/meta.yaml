@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/82c727b85bfb4d78b8ec9b57f4a5df28/artifacts
+end_time: 1744373758747
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 82c727b85bfb4d78b8ec9b57f4a5df28
+run_name: nervous-vole-357
+run_uuid: 82c727b85bfb4d78b8ec9b57f4a5df28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373756545
+status: 3
+tags: []
+user_id: root

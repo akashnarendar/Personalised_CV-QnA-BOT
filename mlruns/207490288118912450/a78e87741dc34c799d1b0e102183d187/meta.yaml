@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/a78e87741dc34c799d1b0e102183d187/artifacts
+end_time: 1744383556629
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: a78e87741dc34c799d1b0e102183d187
+run_name: fun-colt-169
+run_uuid: a78e87741dc34c799d1b0e102183d187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744383482642
+status: 3
+tags: []
+user_id: root

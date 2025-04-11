@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/13c611b9a134470bb79dee65c8e82473/artifacts
+end_time: 1744383048065
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 13c611b9a134470bb79dee65c8e82473
+run_name: What is the person's name?
+run_uuid: 13c611b9a134470bb79dee65c8e82473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744383046555
+status: 4
+tags: []
+user_id: root

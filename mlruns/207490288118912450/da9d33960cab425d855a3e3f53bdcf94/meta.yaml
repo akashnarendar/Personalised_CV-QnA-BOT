@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/da9d33960cab425d855a3e3f53bdcf94/artifacts
+end_time: 1744374028149
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: da9d33960cab425d855a3e3f53bdcf94
+run_name: illustrious-dove-318
+run_uuid: da9d33960cab425d855a3e3f53bdcf94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374027311
+status: 3
+tags: []
+user_id: root

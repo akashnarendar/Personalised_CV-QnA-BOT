@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/22667275835641cc9c244f2629d37e77/artifacts
+end_time: 1744375466319
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 22667275835641cc9c244f2629d37e77
+run_name: Where is he working currently?
+run_uuid: 22667275835641cc9c244f2629d37e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744375465490
+status: 3
+tags: []
+user_id: root

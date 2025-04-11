@@ -5,4 +5,5 @@ transformers
 torch==2.2.1
 faiss-cpu
 numpy<2
+mlflow
 

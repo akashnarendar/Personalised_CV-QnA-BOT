@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/88aff4051f184b4194f5c4e9a765a6be/artifacts
+end_time: 1744383345183
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 88aff4051f184b4194f5c4e9a765a6be
+run_name: upbeat-wolf-575
+run_uuid: 88aff4051f184b4194f5c4e9a765a6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744383048110
+status: 3
+tags: []
+user_id: root

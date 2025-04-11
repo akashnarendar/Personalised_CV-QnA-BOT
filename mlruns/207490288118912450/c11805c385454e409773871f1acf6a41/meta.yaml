@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/c11805c385454e409773871f1acf6a41/artifacts
+end_time: 1744403698422
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: c11805c385454e409773871f1acf6a41
+run_name: secretive-loon-494
+run_uuid: c11805c385454e409773871f1acf6a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403698227
+status: 3
+tags: []
+user_id: root

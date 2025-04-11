@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/e65a4dda2da34ed4a5bef750b2f5ecac/artifacts
+end_time: 1744384246269
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: e65a4dda2da34ed4a5bef750b2f5ecac
+run_name: funny-cow-760
+run_uuid: e65a4dda2da34ed4a5bef750b2f5ecac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744384246131
+status: 3
+tags: []
+user_id: root

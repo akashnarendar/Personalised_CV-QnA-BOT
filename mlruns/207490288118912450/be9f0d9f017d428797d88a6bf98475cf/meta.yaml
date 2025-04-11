@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/be9f0d9f017d428797d88a6bf98475cf/artifacts
+end_time: 1744403777457
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: be9f0d9f017d428797d88a6bf98475cf
+run_name: amusing-worm-859
+run_uuid: be9f0d9f017d428797d88a6bf98475cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403777368
+status: 3
+tags: []
+user_id: root

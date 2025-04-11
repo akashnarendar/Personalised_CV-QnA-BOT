@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/2e41a85402f049dfa7e67d8f5c7d96f5/artifacts
+end_time: 1744404514973
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 2e41a85402f049dfa7e67d8f5c7d96f5
+run_name: Has Narendar worked with NLP?
+run_uuid: 2e41a85402f049dfa7e67d8f5c7d96f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744404512164
+status: 3
+tags: []
+user_id: root

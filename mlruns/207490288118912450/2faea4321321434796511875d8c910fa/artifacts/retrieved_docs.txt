@@ -1,0 +1,5 @@
+﻿Narendar Punithan, Data Scientist london, United Kingdom, 07717166173, akashnarendar2013@gmail.com
+
+Nov 2018 — Apr 2020        Data Analyst, Latentview Analytics        Chennai * Tracked, analyzed and measured user impact of CPA, CPC, ROAS etc for a particular high profile fin-tech client. * Performed weekly reports for KPI analysis. * Performed various Adhoc analysis using SQL, presented key findings an built various dashboards using Tableu.
+
+SKILLS        Python AI / ML / NLP SQL Tensorflow ________________ Keras Flask AWS / GCP / Azure Spacy , NLTK , Huggingface , GPT-3, GEN AI , Airflow, ML Flow, Terraform, AWS ECS, Elastic Beanstalk

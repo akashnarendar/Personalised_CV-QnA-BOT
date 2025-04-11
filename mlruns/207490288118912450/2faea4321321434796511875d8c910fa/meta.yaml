@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/2faea4321321434796511875d8c910fa/artifacts
+end_time: 1744373858698
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 2faea4321321434796511875d8c910fa
+run_name: smiling-wasp-758
+run_uuid: 2faea4321321434796511875d8c910fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373858092
+status: 3
+tags: []
+user_id: root

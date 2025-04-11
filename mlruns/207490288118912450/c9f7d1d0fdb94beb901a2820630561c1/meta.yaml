@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/c9f7d1d0fdb94beb901a2820630561c1/artifacts
+end_time: 1744403698214
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: c9f7d1d0fdb94beb901a2820630561c1
+run_name: Did he deploy models in AWS or GCP?
+run_uuid: c9f7d1d0fdb94beb901a2820630561c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744403697210
+status: 4
+tags: []
+user_id: root

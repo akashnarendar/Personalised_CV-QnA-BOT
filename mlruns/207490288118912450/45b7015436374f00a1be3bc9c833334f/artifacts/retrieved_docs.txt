@@ -1,0 +1,5 @@
+﻿Narendar Punithan, Data Scientist london, United Kingdom, 07717166173, akashnarendar2013@gmail.com
+
+Nov 2018 — Apr 2020        Data Analyst, Latentview Analytics        Chennai * Tracked, analyzed and measured user impact of CPA, CPC, ROAS etc for a particular high profile fin-tech client. * Performed weekly reports for KPI analysis. * Performed various Adhoc analysis using SQL, presented key findings an built various dashboards using Tableu.
+
+Oct 2017 — May 2018        Data Science Intern, Optisol Business Solutions        Chennai Facial detection and recognition : Built a in-house facial detection and recognition model to detect and identify employees using openCV. Trained model on various images of employees and annotated them and fed them to the model to classify employees. PPE Proof Of Concepts : Built an object detection model using tensorflow to train and detect industrial protective suits to identify workers not following safety hazards. Other Experiences : Experimented on various streams of data science and machine learning from structural data analysis to NLP and openCV.

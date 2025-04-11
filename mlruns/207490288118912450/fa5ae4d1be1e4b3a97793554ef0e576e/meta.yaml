@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/fa5ae4d1be1e4b3a97793554ef0e576e/artifacts
+end_time: 1744373787330
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: fa5ae4d1be1e4b3a97793554ef0e576e
+run_name: bouncy-toad-800
+run_uuid: fa5ae4d1be1e4b3a97793554ef0e576e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373786727
+status: 3
+tags: []
+user_id: root
