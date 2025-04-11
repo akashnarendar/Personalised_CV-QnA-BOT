@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/b7c6f19e1f3e433f938a6d60a9cd078d/artifacts
+end_time: 1744374266706
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: b7c6f19e1f3e433f938a6d60a9cd078d
+run_name: glamorous-trout-442
+run_uuid: b7c6f19e1f3e433f938a6d60a9cd078d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374265167
+status: 3
+tags: []
+user_id: root

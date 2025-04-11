@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/53ad4a7310d14dd3b4c860cb470b2222/artifacts
+end_time: 1744374009272
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 53ad4a7310d14dd3b4c860cb470b2222
+run_name: fun-lamb-857
+run_uuid: 53ad4a7310d14dd3b4c860cb470b2222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374008056
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/45b7015436374f00a1be3bc9c833334f/artifacts
+end_time: 1744373839770
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 45b7015436374f00a1be3bc9c833334f
+run_name: abundant-moose-896
+run_uuid: 45b7015436374f00a1be3bc9c833334f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373839049
+status: 3
+tags: []
+user_id: root

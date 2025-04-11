@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/f39b62d7febb4e1fb0c28d5bba2dbc1a/artifacts
+end_time: 1744374272652
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: f39b62d7febb4e1fb0c28d5bba2dbc1a
+run_name: flawless-newt-479
+run_uuid: f39b62d7febb4e1fb0c28d5bba2dbc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374271498
+status: 3
+tags: []
+user_id: root

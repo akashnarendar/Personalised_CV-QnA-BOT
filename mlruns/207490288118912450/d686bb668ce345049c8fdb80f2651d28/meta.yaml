@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/d686bb668ce345049c8fdb80f2651d28/artifacts
+end_time: 1744374019560
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: d686bb668ce345049c8fdb80f2651d28
+run_name: big-perch-69
+run_uuid: d686bb668ce345049c8fdb80f2651d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374018320
+status: 3
+tags: []
+user_id: root
