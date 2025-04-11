@@ -5,5 +5,8 @@ from qa.llm import call_llm
 def get_answer_from_query(query):
     query_vec = embed_query(query)
     docs = retrieve_docs(query_vec)
-    answer = call_llm(query, docs)
-    return answer
+
+    if not docs:
+        return "❌ Sorry, I couldn't find any relevant information in your document."
+
+    return call_llm(query, docs)

@@ -1,0 +1,113 @@
+﻿Narendar Punithan, Data Scientist
+london, United Kingdom, 07717166173, akashnarendar2013@gmail.com
+  
+
+LINKS        Linkedin
+  
+
+PROFILE        With over 6 years of experience as a Machine Learning Engineer, I specialize in NLP and Generative AI, working across NER, Semantic Analysis, Transformers, and LLMs. I have led end-to-end development and deployment of scalable AI solutions using cloud-native tools.
+                                                        At the UK Cabinet Office, I build and enhance Wagtail and Django-based services using Python, leveraging AWS services like ECS, Elastic Beanstalk, and CloudFront for secure, scalable deployment. My recent work includes integrating Gen AI-powered features to improve user experiences and internal content automation
+        I bring strong hands-on experience in orchestrating ML pipelines using Apache Airflow, optimizing model workflows and ensuring robust, maintainable data pipelines. My strength lies in bridging deep technical knowledge with high-impact delivery in production environments.
+                                                         My expertise lies in delivering scalable, robust solutions while advancing innovation in ML. With a        strong foundation in theory and practice, I am dedicated to creating impactful, high-quality technologies.
+
+
+  
+
+EMPLOYMENT HISTORY
+
+
+Apr 2024 — Present        Senior Python Developer, Fourseals Digital        London Worked for the Cabinet Office to build and support various services.
+Intranet
+* Enhanced the Cabinet Office Intranet, a Wagtail-based CMS application, by developing and deploying new features using Python.
+* Utilized Amazon ECS for containerized application management, ensuring scalability and high availability.
+* Implemented AWS WAF and CloudFront policies to secure the application and improve performance for global users.
+* Delivered comprehensive AWS Cloud Infrastructure support while resolving application bugs and optimizing backend processes.
+Procurement Pathway
+* Provided end-to-end support for the Wagtail-based CMS application, including Python-based backend enhancements and AWS infrastructure management.
+* Deployed the service on Amazon ECS, ensuring efficient resource utilization and application reliability.
+* Strengthened application security by implementing WAF policies and enhanced user experience with
+CloudFront caching mechanisms.
+* Addressed user-reported issues, debugged applications, and built scalable solutions to align with stakeholder requirements.
+Evaluation Registry
+* Remodelled and upgraded the Django-based application, focusing on backend improvements and optimizing the user journey using Python.
+* Deployed the application on Elastic Beanstalk, streamlining operational management and ensuring consistent performance.
+* Implemented robust security policies and utilized AWS WAF and CloudFront to protect and accelerate the application for end users.
+* Provided ongoing support for bug fixes, feature development, and operational enhancements.
+Additional Projects
+* Currently building two new Wagtail applications for the Cabinet Office, employing Python for backend development and ensuring infrastructure scalability using AWS services.
+* Supporting critical services like COLA and Lords Whips, delivering optimized AWS Cloud Infrastructure.
+* Proactively implemented security best practices and performance optimization techniques across all projects, ensuring compliance and user satisfaction.
+Mar 2023 — Mar 2024        Senior Machine Learning Engineer, Thinkbridge Solutions        London , Remote
+* Spearheaded the development of a customized GEN AI, Large Language Model (LLM) tailored to serve as a centralized knowledge hub for organizational codebases, significantly enhancing developer productivity and efficiency.
+* Engineered the LLM to assist with diverse tasks, including error debugging, code recommendations, and developer workflow optimization, driving measurable productivity gains.
+* Successfully hosted and deployed the GEN AI, LLM on GCP Compute Engine, ensuring optimal resource utilization and seamless integration with the organization's infrastructure.
+* Designed and implemented multiple sub-services to complement the GEN AI, LLM, utilizing GCP App Engine, Cloud Storage Buckets, and CloudSQL Tables for efficient data handling and service scalability. Optimized the LLM’s performance and scalability by leveraging GCP’s advanced infrastructure features, ensuring high availability and responsiveness under diverse workloads.
+* Monitored and maintained the GEN AI , LLM ecosystem, employing robust techniques to ensure continuous performance improvements and address operational challenges.
+* Collaborated with cross-functional teams of developers and data scientists to gather requirements, define system capabilities, and align the LLM’s functionality with organizational needs.
+* Provided technical mentorship to junior team members, fostering their growth in machine learning, cloud infrastructure, and software development best practices.
+* Demonstrated a strong commitment to delivering high-quality, scalable machine learning solutions that drove the adoption of AI technologies across the organization.
+
+
+Aug 2020 — Aug 2021        Machine Learning Engineer, Thinkbridge Solutions        Pune
+* Developed an NLP-based candidate screening algorithm for a job platform akin to Monster and Indeed, leveraging libraries and techniques such as SpaCy, Word2Vec, word embeddings, semantic grouping, and semantic similarity identification. This solution streamlined pre-screening processes, reducing service expenses by over $5,000/month.
+* Designed and implemented forecasting models for a fin-tech client to accurately predict revenue and spending, enabling more precise expenditure estimation and improved profitability.
+* Collaborated closely with internal stakeholders to identify and gather analytical requirements for customer, product, and project initiatives, ensuring alignment with business goals.
+* Spearheaded the development of data-gathering and reporting structures, leveraging system features to provide actionable insights and enhance decision-making processes.
+* Applied advanced analytical and machine learning methods to address complex business challenges, driving growth and profitability improvements.
+* Utilised GCP services, including Compute Engine, Cloud Storage, and BigQuery, to optimise the performance and scalability of machine learning models, ensuring efficient resource utilisation and seamless integration within production systems.
+
+
+Oct 2019 — Aug 2020        Machine Learning Engineer, Optisol Business Solutions        Chennai
+* Intelligent Document Analyzer :
+For Henkel, a billion dollar American chemical company, a project using various NLP techniques, a document was being parsed, analyzed to extract data and using TF-IDF vectorizer, a similarity matrix was built and compared against more than 10,000 documents to find if there were any similar/ older versions of the same document present. It also involved building APIs and deployment in Docker, AWS lambda function, AWS EC2 instance.
+* Classification model for patients treatment continuum :
+Built a classification model to identify patients who would continue their treatment for a trial drug for an international NGO. This included integration of a database and conversion of the model into an API to be deployed into an AWS instance.
+* Entity based sentiment analyzer of medical reviews:
+Using various NLP techniques, medical reviews were analyzed, tokenized and entity dependent parts were extracted. A classifier was trained to classify reviews into positive, negative or neutral. The extracted parts of the reviews were parsed in to get their sentiments analyzed and tagged to their respective entities. This also included integration of a database and building APIs for aforementioned pipeline along with the deployment in an azure system.
+Created customized applications to make critical predictions, automate reasoning and decisions, and calculate optimization algorithms.
+May 2019 — Aug 2019        Data Analyst, Greedy Game Media        Bengaluru
+* Performed extraction of unstructured data from S3 buckets which were sent in from APIs of SDKs integrated in games from users' device saved in a server and converted them to structured data and uploaded the data to multiple platforms such as Google BigQuery and MySQL depending on the type of analysis to be conducted.
+* Identified, built and documented end-to-end pipeline of user journey.
+* Performed in-depth analysis of KPIs on a daily basis and dug into details to discover what were driving those trends, if any present.
+* Performed 'Red-Alert' analysis of critical game performances
+* Performed campaign level and partner level optimization, increasing 35% of the revenue for 3 clients. Automated Metabase and developed effective dash boards to showcase the KPI performances of clients and self-run campaigns.
+
+
+Nov 2018 — Apr 2020        Data Analyst, Latentview Analytics        Chennai
+* Tracked, analyzed and measured user impact of CPA, CPC, ROAS etc for a particular high profile fin-tech client.
+* Performed weekly reports for KPI analysis.
+* Performed various Adhoc analysis using SQL, presented key findings an built various dashboards using Tableu.
+
+
+Jun 2018 — Nov 2018        Freelance Data Science Trainer, Multiple        Chennai iPrimed Educational Solutions Pvt Ltd :
+* Trained students on data science using R, which included explanatory data analysis, uni-variate analysis, bi-variate analysis, outlier detection, missing value identification and imputation and model
+building. Established clear objectives and trained them on various machine learning algorithms and their applications. Handled batches of 50 students.
+Vega Intellisoft Pvt Ltd :
+* Trained students on core java, python and its applications for data science. Trained them on establishing clear objectives and trained them on various machine learning algorithms and their applications.
+
+
+Oct 2017 — May 2018        Data Science Intern, Optisol Business Solutions        Chennai Facial detection and recognition :
+Built a in-house facial detection and recognition model to detect and identify employees using openCV. Trained model on various images of employees and annotated them and fed them to the model to classify employees.
+PPE Proof Of Concepts :
+Built an object detection model using tensorflow to train and detect industrial protective suits to identify workers not following safety hazards.
+Other Experiences :
+Experimented on various streams of data science and machine learning from structural data analysis to NLP and openCV.
+  
+
+EDUCATION
+
+
+Jun 2013 — Jun 2017        B.E - Computer Science, Anna University        Chennai
+Sep 2021 — Sep 2022        MSc DataScience, University of Greenwich        London Oct 2019 — Oct 2020        P.G Diploma in Artificial Intelligence and Machine Learning, Great
+Lakes along with University of Texas Austin        Chennai
+  
+
+
+
+SKILLS        Python
+AI / ML / NLP SQL
+Tensorflow
+________________
+Keras Flask
+AWS / GCP / Azure
+Spacy , NLTK , Huggingface , GPT-3, GEN AI , Airflow, ML Flow, Terraform, AWS ECS, Elastic Beanstalk
