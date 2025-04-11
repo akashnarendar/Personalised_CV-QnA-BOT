@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/1596d5074ac1468a9e776537b5d2cada/artifacts
+end_time: 1744383724618
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 1596d5074ac1468a9e776537b5d2cada
+run_name: classy-dolphin-53
+run_uuid: 1596d5074ac1468a9e776537b5d2cada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744383724433
+status: 3
+tags: []
+user_id: root

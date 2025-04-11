@@ -14,8 +14,5 @@ COPY . .
 # Fail if CV is missing — enforces document presence
 RUN test -s data/docs/Narendar_Punithan_CV_final_word.txt || (echo "❌ CV not found in data/docs/" && exit 1)
 
-# Build the FAISS index during image build
-RUN python scripts/build_index.py
-
 # Start the app
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

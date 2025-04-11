@@ -1,11 +1,14 @@
-# qa/mlflow_logger.py
-
 import mlflow
 import time
 
 def start_tracking(experiment_name="llm-qa-chatbot", run_name=None):
     mlflow.set_tracking_uri("mlruns")
     mlflow.set_experiment(experiment_name)
+
+    # ✅ Ensure no overlapping runs
+    if mlflow.active_run():
+        mlflow.end_run()
+
     return mlflow.start_run(run_name=run_name)
 
 def log_basic_info(query, model, start_time, score=None, retrieved_docs=None, answer=None):
@@ -33,5 +36,5 @@ def log_tags_and_status(confidence, threshold=0.3):
 
 def log_error(error_msg, query):
     mlflow.set_tag("status", "error")
-    mlflow.set_param("query", query)
     mlflow.set_tag("error_type", error_msg)
+    mlflow.log_param("query", query)
