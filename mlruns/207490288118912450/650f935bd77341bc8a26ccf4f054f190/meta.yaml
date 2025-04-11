@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/207490288118912450/650f935bd77341bc8a26ccf4f054f190/artifacts
+end_time: 1744375453694
+entry_point_name: ''
+experiment_id: '207490288118912450'
+lifecycle_stage: active
+run_id: 650f935bd77341bc8a26ccf4f054f190
+run_name: What was the last company Narendar was employed?
+run_uuid: 650f935bd77341bc8a26ccf4f054f190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744375453095
+status: 3
+tags: []
+user_id: root
