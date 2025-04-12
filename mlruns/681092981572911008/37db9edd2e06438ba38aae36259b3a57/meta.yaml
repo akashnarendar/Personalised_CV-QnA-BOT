@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/681092981572911008/37db9edd2e06438ba38aae36259b3a57/artifacts
+end_time: 1744465404915
+entry_point_name: ''
+experiment_id: '681092981572911008'
+lifecycle_stage: active
+run_id: 37db9edd2e06438ba38aae36259b3a57
+run_name: What cloud infrastructure has Narendar worked on?
+run_uuid: 37db9edd2e06438ba38aae36259b3a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744465402821
+status: 3
+tags: []
+user_id: root

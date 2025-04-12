@@ -1,0 +1,6 @@
+artifact_location: /app/mlruns/681092981572911008
+creation_time: 1744465066226
+experiment_id: '681092981572911008'
+last_update_time: 1744465066226
+lifecycle_stage: active
+name: llm-qa-chatbot

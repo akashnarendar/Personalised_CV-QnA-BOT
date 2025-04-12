@@ -14,21 +14,17 @@ services:
       AIRFLOW__CORE__FERNET_KEY: "ovh2_0912iotvg6_f-i4KIUqmGa5sQ-LjS-0RPIHSeE="
       AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "True"
     volumes:
-      - airflow_db:/opt/airflow
+      - airflow_db:/opt/airflow/db
       - ./airflow/dags:/opt/airflow/dags
       - ./scripts:/opt/airflow/scripts
       - ./data:/opt/airflow/data
     command: >
       bash -c "
-      if [ ! -f /opt/airflow/airflow.db ]; then
-        echo '⏳ Initializing Airflow DB and admin user...' &&
-        airflow db init &&
-        airflow users create --username admin --password admin \
-          --firstname Admin --lastname User \
-          --role Admin --email admin@example.com;
-        echo '✅ Airflow DB initialized and admin user created.';
-      fi &&
-      airflow webserver
+      airflow db upgrade &&
+      airflow users create --username admin --password admin \
+        --firstname Admin --lastname User \
+        --role Admin --email admin@example.com || true &&
+      exec airflow webserver
       "
 
   airflow-scheduler:
@@ -40,7 +36,7 @@ services:
       AIRFLOW__CORE__EXECUTOR: SequentialExecutor
       AIRFLOW__CORE__FERNET_KEY: "ovh2_0912iotvg6_f-i4KIUqmGa5sQ-LjS-0RPIHSeE="
     volumes:
-      - airflow_db:/opt/airflow
+      - airflow_db:/opt/airflow/db
       - ./airflow/dags:/opt/airflow/dags
       - ./scripts:/opt/airflow/scripts
       - ./data:/opt/airflow/data

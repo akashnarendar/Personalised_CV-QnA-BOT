@@ -1,0 +1,16 @@
+PROFILE        With over 6 years of experience as a Machine Learning Engineer, I specialize in NLP and Generative AI, working across NER, Semantic Analysis, Transformers, and LLMs. I have led end-to-end development and deployment of scalable AI solutions using cloud-native tools.
+                                                        At the UK Cabinet Office, I build and enhance Wagtail and Django-based services using Python, leveraging AWS services like ECS, Elastic Beanstalk, and CloudFront for secure, scalable deployment. My recent work includes integrating Gen AI-powered features to improve user experiences and internal content automation
+        I bring strong hands-on experience in orchestrating ML pipelines using Apache Airflow, optimizing model workflows and ensuring robust, maintainable data pipelines. My strength lies in bridging deep technical knowledge with high-impact delivery in production environments.
+                                                         My expertise lies in delivering scalable, robust solutions while advancing innovation in ML. With a        strong foundation in theory and practice, I am dedicated to creating impactful, high-quality technologies.
+
+SKILLS        Python
+AI / ML / NLP SQL
+Tensorflow
+________________
+Keras Flask
+AWS / GCP / Azure
+Spacy , NLTK , Huggingface , GPT-3, GEN AI , Airflow, ML Flow, Terraform, AWS ECS, Elastic Beanstalk
+
+﻿Narendar Punithan, Data Scientist
+london, United Kingdom, 07717166173, akashnarendar2013@gmail.com
+  

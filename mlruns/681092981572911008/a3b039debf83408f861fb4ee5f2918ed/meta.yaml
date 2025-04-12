@@ -1,0 +1,15 @@
+artifact_uri: /app/mlruns/681092981572911008/a3b039debf83408f861fb4ee5f2918ed/artifacts
+end_time: 1744465923396
+entry_point_name: ''
+experiment_id: '681092981572911008'
+lifecycle_stage: active
+run_id: a3b039debf83408f861fb4ee5f2918ed
+run_name: What LLMs has he used?
+run_uuid: a3b039debf83408f861fb4ee5f2918ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744465921771
+status: 3
+tags: []
+user_id: root
